@@ -9,6 +9,10 @@ In local dev, the React dev server & Node server are run side by side, with API 
 ## NOTES from Danny
 See the Local Dev Setup section below if you actually want to run the app and see it in action.
 
+The two main files that contain the code to complete the challenge are: 
+- src/client/src/App.js
+- src/server/routes/api.js
+
 I planned to make some code improvements, but once I validated the second challenge the endpoints stopped working. 
 The main things I planned to change:
 - use local state instead of window object for variable storage
